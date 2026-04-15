@@ -446,7 +446,7 @@
         },
         {
           "name": "TOTV",
-          "url": "http://totv.org/tv/usa/",
+          "url": "https://totv.org/tv/india/",
           "logo": "./logo/livetv/totv.png",
           "enabled": true
         },
