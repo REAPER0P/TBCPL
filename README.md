@@ -6,7 +6,7 @@
       />
     </p>
 
-# <p align="center">PROJECTHUB</p>
+# <p align="center">PROJECT HUB</p>
 
 Source Code of one of the most Demanding Indexing Site
 
