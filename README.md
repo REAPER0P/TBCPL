@@ -20,7 +20,3 @@ we'll take a look if its good then sure..
 ## License
 
 [MIT](LICENSE)
-
-## Socials
-
-[Discord](https://discord.com/invite/BPxzYVY5UU)
